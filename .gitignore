@@ -14,3 +14,4 @@ user_guide_src/cilexer/dist/*
 user_guide_src/cilexer/pycilexer.egg-info/*
 /vendor/
 /nbproject/
+/user_guide_myci_src/_build/
