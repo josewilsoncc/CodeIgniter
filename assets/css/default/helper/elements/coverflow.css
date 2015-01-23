@@ -1,0 +1,26 @@
+/**
+ * CSS para CoverFlow
+ * @author Jose Wilson Capera Castaño <josewilsoncc@hotmail.com>
+ * @date 2015/01/06
+ */
+#view-coverflow{
+  cursor:		pointer;
+  width:		95%;
+  max-height: 50% !important;
+}
+
+.cover {
+  cursor:		pointer;
+  width: 50% !important;
+  max-width: 320px;
+  max-height: 50%;
+}
+
+.cover img{
+  width: 100% !important;
+  height: auto;
+}
+
+#view-coverflow canvas{
+  width: 100% !important;
+}

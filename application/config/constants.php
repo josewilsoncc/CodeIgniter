@@ -39,6 +39,22 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 /*
 |--------------------------------------------------------------------------
+| Constantes globales de la aplicación
+|--------------------------------------------------------------------------
+|
+| Estas son todas las constantes de la aplicación, es de recordar que
+| toda constante declarada aqui estara disponible en cualquier parte de
+| la aplicacion, esto quiere decir que se puede usar en cualquien
+| controlador por ejemplo.
+|
+*/
+
+define('PROJECT_TITLE', 'Título del proyecto');
+define('PROJECT_NAME', 'Aqui el nombre del proyecto');
+define('IP_DATABASE_FABRICA', '192.168.100.70');
+
+/*
+|--------------------------------------------------------------------------
 | File and Directory Modes
 |--------------------------------------------------------------------------
 |

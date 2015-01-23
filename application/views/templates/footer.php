@@ -1,0 +1,1 @@
+<?php footer('Área de TICs - IBG - 2015'); ?>
