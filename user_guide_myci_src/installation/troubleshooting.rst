@@ -1,19 +1,23 @@
-###############
-Troubleshooting
-###############
+#####################
+Solución de problemas
+#####################
 
-If you find that no matter what you put in your URL only your default
-page is loading, it might be that your server does not support the
-PATH_INFO variable needed to serve search-engine friendly URLs. As a
-first step, open your application/config/config.php file and look for
-the URI Protocol information. It will recommend that you try a couple
-alternate settings. If it still doesn't work after you've tried this
-you'll need to force CodeIgniter to add a question mark to your URLs. To
-do this open your application/config/config.php file and change this::
+Si ocurre que sin importar que ponga en la URL solamente se carga
+su página predeterminada, podría ser que su servidor no soporta la
+variable PATH_INFO necesaria para las URLs amigables en los motores
+de búsqueda. Como primer paso, abra su archivo
+application/config/config.php y pruebe otros valores alternativos
+para $config['uri_protocol'] que están indicados en los comentarios
+del código.
+
+Se le recomendará que pruebe un par de ajustes alternativos. Si
+después de haber intentado esto no funciona, tendrá que forzar
+MyCI a agregar un signo de interrogación a su URL. Para hacerlo,
+abra su archivo application/config/config.php y cambie esto::
 
 	$config['index_page'] = "index.php";
 
-To this::
+Por esto::
 
 	$config['index_page'] = "index.php?";
 

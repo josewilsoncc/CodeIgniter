@@ -1,8 +1,32 @@
 #####################
-The MIT License (MIT)
+La Licencia MIT (MIT)
 #####################
 
+*****************************************************
+Copyright (c) 2014 - 2015, Jose Wilson Capera Castaño
+*****************************************************
+
+Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia
+de este software y archivos de documentación asociada (el "Software"), para
+tratar el Software sin restricciones, incluso sin limitación del derecho para
+usar, copiar, modificar, fusionar, publicar, distribuir, sub-licenciar y/o
+vender copias del Software, permitiendo hacer esto, bajo a las siguientes
+condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas
+las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
+IMPLÍCITAS, INCLUYENDO PERO NO LIMITANDO A LAS GARANTÍAS DE COMERCIALIZACIÓN,
+IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO, LOS
+AUTORES O TITULARES DEL COPYRIGHT SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN,
+DAÑOS U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O
+CUALQUIER OTRO MOTIVO, EN RELACIÓN CON EL SOFTWARE, EL USO U OTROS TRATOS DEL
+SOFTWARE.
+
+*******************************************************************
 Copyright (c) 2014 - 2015, British Columbia Institute of Technology
+*******************************************************************
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
